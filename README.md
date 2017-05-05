@@ -16,7 +16,7 @@ processed as "why AND because."
 
 The documents are read from documents.txt.gz.
 
-The index will store tf-idf values using the formulae from class.
+The index will store tf-idf values using the formulae.
 
 The search method will sort documents by the cosine similarity between the
 query and the document (normalized only by the document length, not the query

@@ -1,6 +1,4 @@
-## Assignment 1: Ranking (50 points)
-
-In this assignment, you'll implement a search engine over Wikipedia documents. The file `documents.txt.gz` contains 5,435 snippets from the Wikipedia pages in the "Wiki Small" collection [here](http://www.search-engines-book.com/collections/). Each line is a separate snippet. Here is an example:
+Implementing a search engine over Wikipedia documents. The file `documents.txt.gz` contains 5,435 snippets from the Wikipedia pages in the "Wiki Small" collection [here](http://www.search-engines-book.com/collections/). Each line is a separate snippet. Here is an example:
 ```
 "Take My Breath Away" is the name of a love song from the film Top Gun, written by Giorgio Moroder and Tom Whitlock, performed by the band Berlin. It won the Academy Award for Best Original Song as well as the Golden Globe Award for Best Original Song in 1987.
 ```

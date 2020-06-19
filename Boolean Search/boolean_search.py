@@ -1,5 +1,5 @@
 """ 
-You will implement a simple in-memory boolean search engine over the jokes
+A simple in-memory boolean search engine over the jokes
 from http://web.hawkesnest.net/~jthens/laffytaffy/.
 
 The documents are read from documents.txt.
